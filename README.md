@@ -1,4 +1,4 @@
- MedicalStatusMap ver1.0
+# MedicalStatusMap ver1.0
 
 ## 概要  
 神奈川県の医療機関の2020年5月20日現在の受け入れ状況(入院,救急,外来)を表示します。
